@@ -1,6 +1,6 @@
 1) Characters as overlapping behavioral profiles
 
-We model each character as a blend of workplace behaviors (archetypes). A single answer never maps 100% to one character; instead it contributes fractional credit to several characters who plausibly exhibit that behavior. This mirrors the show: e.g., Jim jokes a lot, but so do Michael and Andy—just in different flavors.
+Modeled each character as a blend of workplace behaviors (archetypes). A single answer never maps 100% to one character; instead it contributes fractional credit to several characters who plausibly exhibit that behavior. This mirrors the show: e.g., Jim jokes a lot, but so do Michael and Andy—just in different flavors.
 
 2) Archetype → character mapping logic
 
